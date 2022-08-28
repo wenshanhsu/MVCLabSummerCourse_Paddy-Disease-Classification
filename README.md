@@ -1,4 +1,4 @@
-# Homework - Titanic
+# Homework - Paddy Disease Classification
 
 ![](https://imgur.com/S1F4zdA.png)
 
